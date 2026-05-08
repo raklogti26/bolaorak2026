@@ -1,0 +1,16 @@
+[
+    {
+        "timeA": "Brasil",
+        "timeB": "Argentina",
+        "placarA": 2,
+        "placarB": 1,
+        "status": "Finalizado"
+    },
+    {
+        "timeA": "França",
+        "timeB": "Portugal",
+        "placarA": 0,
+        "placarB": 0,
+        "status": "Hoje 20:00"
+    }
+]
