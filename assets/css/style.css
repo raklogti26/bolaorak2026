@@ -1,0 +1,66 @@
+* {
+    padding: 25px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    margin-bottom: 20px;
+    color: #13294b;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background: #d9dde1;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #ccc;
+}
+
+tr:hover {
+    background: #f3f3f3;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.jogo-card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.time {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+}
+
+.placar {
+    font-size: 30px;
+    font-weight: bold;
+    color: #13294b;
+}
+
+@media (max-width: 768px) {
+
+    .menu {
+        flex-wrap: wrap;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+}
